@@ -1,3 +1,8 @@
+
+Для того,чтобы запустить проект,после скачивания проекта :
+1. Команда npm install,установит все пакеты
+2. npm start запустит программу
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
